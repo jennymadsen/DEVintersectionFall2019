@@ -9,5 +9,4 @@ Brady Gaster is a senior program manager in the ASP.NET team at Microsoft, where
 
 Here are links to his presentation material:
 
-- [MICROSERVICES 101 - GETTING STARTED WITH .NET CORE AND KUBERNETES](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Spring%202019/dotnet_core_and_kubernetes.pptx)
-- [SIGNALR: REAL-TIME FOR ALL THE THINGS](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Spring%202019/devint-signalr.pptx)
+- 
