@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Barry Dorrans"
+title:  "Dan Patrick"
 date:   2018-09-27 11:48:33 +0400
-expertise: .Net Program Manager, Microsoft
+expertise: Chief Infrastructure Architect, Solliance
 ---
 
-Barry is the security curmudgeon for ASP.NET which means he gets to look at the framework, tools and template code, searching for potential insecurities and sometimes even fixing them. He also triages publicly and privately reported vulnerabilities before getting someone else to fix them which means he gets all of the fun and none of the responsibility.
+Dan is the Chief Infrastructure Architect for Solliance. He leads the DevOps and Infrastructure practice focusing on accelerating the customer's velocity to the cloud. Dan has been designated a Microsoft MVP (“Most Valuable Professional”), for Azure and is a 15-year veteran of Microsoft.
 
 Here are links to his presentation material:
 
