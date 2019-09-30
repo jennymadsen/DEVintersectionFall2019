@@ -5,4 +5,4 @@
 layout: home
 ---
 
-[DEVintersection]() is proud to provide the following speaker material from its 2018 conference held in Orlando, Fl on June 11 - 13th, 2019.
+[DEVintersection]() is proud to provide the following speaker material from its Fa;; 2019 conference held in Las Vegas, NV on Nov. 18 - 21st, 2019 at the MGM Grand Resort.
