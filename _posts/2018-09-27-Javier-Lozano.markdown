@@ -11,4 +11,4 @@ Javier is CEO and Founder of Lozanotek, Inc., a .NET focused software developmen
 
 Here are links to his presentation material:
 
-- [AUTOMATED DELIVERY FOR .NET APPLICATIONS](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Spring%202019/Automated_Delivery_SP19.pptx)
+- 
