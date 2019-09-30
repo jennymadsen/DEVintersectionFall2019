@@ -10,5 +10,4 @@ Billy is internationally known for his work on user experience design and native
 
 Here are links to his presentation material:
 
-- [GET YOUR HEAD IN THE CLOUD](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Spring%202019/GetYourHeadinCloudDevInt.pdf)
-- [THE 8 MOST COMMON WAYS DEVELOPERS GET UX WRONG](https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Spring%202019/The%208%20most%20common%20ways%20developers%20get%20UX.pdf)
+- 
